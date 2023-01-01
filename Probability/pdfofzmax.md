@@ -13,4 +13,4 @@ In this case, X and Y are uniformly distributed over the interval `(0, 1)`, so t
 
 `f_Z(z) = 1 + 1 - 1 = 1`
 
-This means that the PDF of Z is always equal to 1, regardless of the value of z. This means that Z is also uniformly distributed over the interval (0,1).
+This means that the `PDF` of `Z` is always equal to `1`, regardless of the value of `z`. This means that Z is also uniformly distributed over the interval `(0,1)`.
