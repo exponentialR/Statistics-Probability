@@ -11,4 +11,4 @@ The numerator is the number of ways to draw a pair, which is equal to the number
 
 The denominator is the total number of ways to draw 2 cards from a deck of 52 cards, which is 52 * 51, since there are 52 choices for the first card and 51 choices for the second card (since after the first card is drawn, there are 51 cards left in the deck).
 
-Therefore, the probability of drawing a pair is 26/2652 = 3/51.
+Therefore, the probability of drawing a pair is `26/2652 = 3/51`.
